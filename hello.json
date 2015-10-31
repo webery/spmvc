@@ -1,0 +1,7 @@
+{
+  "name": "spmvc",
+  "version": "0.0.1",
+  "public": true,
+
+  "dependencies": "say hello to you - the project for java web tutorial",
+}
